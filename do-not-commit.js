@@ -1,1 +1,1 @@
-console.log('Do not commit');
+console.log('Do commit');
